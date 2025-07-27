@@ -1,11 +1,5 @@
 # Social Media Shares
 
-Team Members:
-1) Yaseen Abdulmahdi (277021)
-2) Mehrab Teimourpour (273741)
-3) Don Mark Tolod (276181)  
-
-
 **INTRODUCTION**
 
 In this project, we are tasked with helping a social media department analyze the success of their communications. Specifically, we aim to develop a tool that can predict the number of shares on social media given the contents and supposed publication time. To do so, we have been provided with a dataset to use for machine learning.
